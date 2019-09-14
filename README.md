@@ -9,8 +9,8 @@ Project should only be should used with caution as it is alpha and in developmen
 
 ## Built With
 
-* [mqtt](https://www.npmjs.com/package/mqtt) MQTT.js is a client library for the MQTT protocol, written in JavaScript for node.js and the browser.
-* [pouchdb](https://www.npmjs.com/package/pouchdb) PouchDB is a pocket-sized database.
+* [MQTT.js](https://www.npmjs.com/package/mqtt) is a client library for the MQTT protocol, written in JavaScript for node.js and the browser.
+* [PouchDB](https://www.npmjs.com/package/pouchdb) is a pocket-sized database.
 
 ## Authors
 
