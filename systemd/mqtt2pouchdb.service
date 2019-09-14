@@ -1,0 +1,15 @@
+[Unit]
+Description=mqtt2pouchdb - Subscribe to mqtt topic and publish to pouchdb
+After=network.target
+
+[Service]
+
+ExecStart=/usr/bin/npm start
+WorkingDirectory=/home/damon/mqtt2pouchdb
+StandardOutput=inherit
+StandardError=inherit
+Restart=always
+User=root
+
+[Install]
+WantedBy=multi-user.target
