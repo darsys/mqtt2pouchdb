@@ -1,6 +1,6 @@
 # mqtt2pouchdb
 
-This is a node.js script that connects to a mqtt server, subscribes to a topic.
+This is a node.js script that connects to a mqtt server and subscribes to a topic.
 The topic updates are then published to a pouchdb doc 
 
 ## Getting Started
